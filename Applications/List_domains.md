@@ -1,5 +1,9 @@
 # CERI_2021/2022
 
+## 📢 Application
+
+* Create an application that dumps the site and searches for keywords (password, username, pwd, user, etc.). 
+
 ## 📢 List of domains 
 * **Below is a list of domain to play:**
    - [+] *.clabs.co
