@@ -4,10 +4,12 @@
 
 * **Download the latest version of VirtualBox: https://www.virtualbox.org/wiki/Downloads**
 
-If you want you can use other virtualization tools like VMware Fusion, VMware Player, VMware Workstation but without assurance that everything works. 
+If you want you can use other virtualization tools like VMware Fusion, VMware Player, VMware Workstation, etc. but without assurance that everything works. 
 Many tests were carried out on VirtualBox.
 
 * **Download the latest version of Kali: https://www.kali.org/get-kali/#kali-virtual-machines**
+
+All VM labs and Kali machines must be in "Bridge". 
 
 ## 📢 Virtual Lab : Labs
 * **Easy** :
@@ -45,9 +47,23 @@ Many tests were carried out on VirtualBox.
     * **VM_216:**
         - [+] Tags: Reconnaissance, brute force, exploit, web, privilege escalation
         - [+] Targets: webadmin, gain access, root
+        - [+] Filename: VM_216.ova
+        - [+] DHCP service: Enabled (IP address are automatically assign)
+        - [+] Format: Virtual Machine (Virtualbox - OVA)
+        - [+] Operating System: Linux
+        - [+] File size: 2.6 GB
+        - [+] SHA1: F207A5CED5369A4BA29971B932B8C683C4AA14C2
+        - [+] Other information: NA
     * **VM_546:**
         - [+] Tags: Reconnaissance, brute force, exploit, web, privilege escalation
         - [+] Targets: webadmin, gain access, root
+        - [+] Filename: VM_546.ova
+        - [+] DHCP service: Enabled (IP address are automatically assign)
+        - [+] Format: Virtual Machine (Virtualbox - OVA)
+        - [+] Operating System: Linux
+        - [+] File size: 969 MB
+        - [+] SHA1: 71294C45D4608EB20F25A45003861DB82ACD7BB4
+        - [+] Other information: NA
 * **Hard** :
     * **VM_694:**
         - [+] Tags: Reconnaissance, brute force, exploit, privilege escalation
