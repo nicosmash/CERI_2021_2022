@@ -8,14 +8,15 @@
 ## 📢 Virtual Lab : Labs
 * **Easy** :
     * **VM_0:**
-        - [+] Tags: To be defined
-        - [+] Targets: To be defined
+        - [+] Tags: Reconnaissance, exploit
+        - [+] Targets: gain access, root
+        - [+] Firewall: To be disabled
     * **VM_207:**
         - [+] Tags: Reconnaissance, exploit
         - [+] Targets: gain access only
-        - [+] Networking:
-            DHCP service: Enabled
-            IP address: Automatically assign
+        - [+] DHCP service: Enabled (IP address are automatically assign)
+        - [+] File size: 761 MB
+        - [+] SHA1: CC6C387C91AB62FAE687DF96AE5C02FF9AAC3B6C
 * **Medium** :      
     * **VM_710:**
         - [+] Tags: Reconnaissance, exploit, privilege escalation
