@@ -3,7 +3,9 @@
 ## 📢 Virtual Lab : Prerequisites
 
 * **Download the latest version of VirtualBox: https://www.virtualbox.org/wiki/Downloads**
+
 If you want you can use other virtualization tools like VMware Fusion, VMware Player, VMware Workstation but without assurance that everything works. 
+
 Many tests were carried out on VirtualBox.
 
 * **Download the latest version of Kali: https://www.kali.org/get-kali/#kali-virtual-machines**
