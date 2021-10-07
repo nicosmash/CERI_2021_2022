@@ -13,6 +13,9 @@
     * **VM_207:**
         - [+] Tags: Reconnaissance, exploit
         - [+] Targets: gain access only
+        - [+] Networking:
+            DHCP service: Enabled
+            IP address: Automatically assign
 * **Medium** :      
     * **VM_710:**
         - [+] Tags: Reconnaissance, exploit, privilege escalation
