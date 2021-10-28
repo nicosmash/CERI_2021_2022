@@ -22,7 +22,7 @@
     * **Thursday December 2:**
         - Virtual Lab exam: 13h00 - 16h00 = 3h
 
-* **Discord link if you have any questions** : https://discord.gg/TMZ82sE9
+* **Discord link if you have any questions** : https://discord.gg/s2yEFYwr
 
 ## 📢 Information : UCE "Application"
 
