@@ -11,14 +11,13 @@
         - Virtual Lab: 13h00 - 17h30 = 4h30
     * **Thursday October 28:**
         - Course: 8h30 - 11h30 = 3h
-        - Virtual Lab: 13h00 - 16h = 3h
+        - Course: 13h00 - 14h30 = 1h30
+        - Virtual Lab: 14h00 - 17h30 = 3h
     * **Thursday November 25:**
         - Course: 8h30 - 11h30 = 3h
         - Virtual Lab: 13h00 - 17h30 = 4h30
     * **Thursday November 29:**
         - Virtual Lab: 13h00 - 17h30 = 4h30
-    * **Wednesday  December 1:**
-        - Course exam: 8h30 - 10h00 = 1h30
     * **Thursday December 2:**
         - Virtual Lab exam: 13h00 - 16h00 = 3h
 
