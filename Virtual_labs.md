@@ -25,7 +25,7 @@ All VM labs and Kali machines must be in "Bridge".
         - [+] Other information: Firewall to be disabled
     * **VM_207:**
         - [+] Tags: Reconnaissance, exploit
-        - [+] Targets: gain access only
+        - [+] Targets: 9 flags beginning by "FLAG{"
         - [+] Filename: VM_207.zip
         - [+] DHCP service: Enabled (IP address are automatically assign)
         - [+] Format: Virtual Machine (VMware)
