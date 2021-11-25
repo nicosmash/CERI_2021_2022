@@ -1,5 +1,7 @@
 # CERI_2021/2022
 
+* **Discord link if you have any questions** : https://discord.gg/FkFP9PpwQN
+
 ## 📢 Information : UCE "Sécurité Web"
 
 * **Course : 10h30 (9h course + 1h30 exam)** : https://github.com/nicosmash/CERI_2021_2022/tree/main/Courses
@@ -24,5 +26,3 @@
 * **Real lab : 10h30 (9h course + 1h30 exam)**
     * **Monday November 29:**
         - Lab: 14h30 - 17h30 = 3h00
-
-* **Discord link if you have any questions** : https://discord.gg/FkFP9PpwQN
