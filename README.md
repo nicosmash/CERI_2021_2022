@@ -4,6 +4,9 @@
 
 ## 📢 Information : UCE "Sécurité Web"
 
+* **Real lab : 10h30 (9h course + 1h30 exam)**
+    * **Exam: Report on Github (I fork it) + Oral**
+
 * **Course : 10h30 (9h course + 1h30 exam)** : https://github.com/nicosmash/CERI_2021_2022/tree/main/Courses
     * **Exam: QCM with about 60 questions**
 
