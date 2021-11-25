@@ -1,9 +1,11 @@
-- Create an exploit (Apache, Microsoft, etc.) about a recent vulnerability.
+1) Create an exploit (Apache, Microsoft, etc.) about a recent vulnerability (POC with explanation like an article).
 
-- Create a tool who can scan an AD.
+2) Create a tool who can scan an active directory.
 
-- Create a tool and a procedure for Windows and Lunix based on Snaffler to analyze the Network. 
+3) Create a tool and a procedure for Windows and Lunix based on Snaffler to analyze the Network. 
 
-- Create a scanner to find any vulnerabilities on previous labs.
+4) Create a scanner to find vulnerabilities on previous labs.
 
-- Create a password cracker for active directory and same password in two domain.
+5) Create a password cracker for active directory and same password in two domain.
+
+6) Found vulnerabilities on website in https://github.com/nicosmash/CERI_2021_2022/blob/main/Applications/List_domains.md.
