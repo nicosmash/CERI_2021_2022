@@ -5,7 +5,10 @@
 ## 📢 Information : UCE "Sécurité Web"
 
 * **Course : 10h30 (9h course + 1h30 exam)** : https://github.com/nicosmash/CERI_2021_2022/tree/main/Courses
+    * **Exam: QCM with about 60 questions**
+
 * **Virtual Lab : 16h30 (13h30 virtual lab + 3h exam)** : https://github.com/nicosmash/CERI_2021_2022/blob/main/Virtual_labs.md
+    * **Exam: Report for all VM (VMs hard are bonus) + Oral**
 
 * **Planning:**
     * **Thursday October 7:**
@@ -24,5 +27,7 @@
 ## 📢 Information : UCE "Application"
 
 * **Real lab : 10h30 (9h course + 1h30 exam)**
+    * **Exam: Report on Github (I fork it) + Oral**
+* **Planning:**
     * **Monday November 29:**
         - Lab: 14h30 - 17h30 = 3h00
