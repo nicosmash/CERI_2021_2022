@@ -12,9 +12,6 @@
 
 * **Planning:**
     * **Thursday October 7:**
-        
-* **Planning:**
-    * **Thursday October 7:**
         - Course: 8h30 - 11h30 = 3h
         - Virtual Lab: 13h00 - 17h30 = 4h30
     * **Thursday October 28:**
