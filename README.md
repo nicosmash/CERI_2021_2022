@@ -31,3 +31,5 @@
 * **Planning:**
     * **Monday November 29:**
         - Lab: 14h30 - 17h30 = 3h00
+    * **Monday January 17:**
+        - Lab: 8h30 - 11h30 and 13h00 - 16h00 = 7h30
