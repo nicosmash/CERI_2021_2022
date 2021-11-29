@@ -15,6 +15,6 @@
 * https://itm4n.github.io/windows-registry-rpceptmapper-eop/
 * You can add one or more tools
 
-4) Create a password cracker for active directory and same password in two domain.
+5) Create a password cracker for active directory and same password in two domain.
 
 6) Choose one or more sites on https://github.com/nicosmash/CERI_2021_2022/blob/main/Applications/List_domains.md and do recon phase and look for as much vulnerability as possible.
