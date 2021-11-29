@@ -10,7 +10,9 @@
 3) Create a tool and a procedure for Windows and Lunix based on Snaffler to analyze the Network : https://github.com/SnaffCon/Snaffler
 * You can add one or more tools
 
-4) Create a tool and a procedure for Windows based on PrivescCheck to enumerate common Windows configuration issues : https://github.com/itm4n/PrivescCheck
+4) Create a tool and a procedure for Windows based on PrivescCheck to enumerate common Windows configuration issues : 
+* https://github.com/itm4n/PrivescCheck
+* https://itm4n.github.io/windows-registry-rpceptmapper-eop/
 * You can add one or more tools
 
 4) Create a password cracker for active directory and same password in two domain.
