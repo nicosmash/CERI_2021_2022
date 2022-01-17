@@ -8,7 +8,7 @@
     * **Exam: QCM with about 60 questions**
 
 * **Virtual Lab : 16h30 (13h30 virtual lab + 3h exam)** : https://github.com/nicosmash/CERI_2021_2022/blob/main/Virtual_labs.md
-    * **Exam: Report for all VM (VMs hard are bonus - deadline for 24 december) + Oral**
+    * **Exam: Report for all VM (VMs hard are bonus - deadline, 24 december) + Oral**
 
 * **Planning:**
     * **Thursday October 7:**
@@ -27,9 +27,11 @@
 ## 📢 Information : UCE "Application"
 
 * **Real lab : 10h30 (9h course + 1h30 exam)**
-    * **Exam: Report on Github (I fork it) + Oral**
+    * **Exam: Report on Github and the deadline is Wednesday 19 January 2022 (I fork it) + Oral**
 * **Planning:**
     * **Monday November 29:**
         - Lab: 14h30 - 17h30 = 3h00
     * **Monday January 17:**
-        - Lab: 8h30 - 11h30 and 13h00 - 16h00 = 7h30
+        - Lab: 8h30 - 11h30 and 13h00 - 16h00 = 6h00
+    * **Oral between Wednesday and Friday:**
+        - Oral: 1h30
