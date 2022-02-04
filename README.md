@@ -2,7 +2,7 @@
 
 * **Discord link if you have any questions** : https://discord.gg/aTrVyz76kU
 
-## 📢 Information : UCE "Sécurité Web"
+## 📢 Information : UCE "Sécurité Web + Applications"
 
 * **Course : 10h30 (9h course + 1h30 exam)** : https://github.com/nicosmash/CERI_2021_2022/tree/main/Courses
     * **Exam: QCM with about 60 questions**
