@@ -14,6 +14,18 @@
     * **Friday February 4:**
         - Course: 8h30 - 11h30 = 3h
         - Virtual Lab: 13h00 - 17h30 = 4h30
+    * **Thursday February 10:**
+        - Course: 8h30 - 11h30 = 3h
+        - Virtual Lab: 13h00 - 17h30 = 4h30
+    * **Thursday March 3:**
+        - Course: 8h30 - 13h00 = 4h30
+        - Virtual Lab: 13h30 - 18h00 = 4h30
+    * **Thursday March 10:**
+        - Course: 8h30 - 11h30 = 3h
+        - Virtual Lab: 13h00 - 17h30 = 4h30
+    * **Thursday March 17:**
+        - Course: 10h00 - 11h30 = 1h30
+        - Virtual Lab: 13h00 - 17h30 = 4h30
 
 ## 📢 Information : UCE "Application"
 
