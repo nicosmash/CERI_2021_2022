@@ -1,5 +1,5 @@
 1) Create an exploit (Apache, Microsoft, etc.) about a recent vulnerability (POC with explanation like an article).
-* Only CVE-2022 discovered in October or November 
+* Only CVE-2022* 
 
 2) Create a tool who can scan an active directory.
 * https://www.cert.ssi.gouv.fr/uploads/guide-ad.html
@@ -18,3 +18,8 @@
 5) Create a password cracker for active directory and same password in two domain.
 
 6) Choose one or more sites on https://github.com/nicosmash/CERI_2021_2022/blob/main/Applications/List_domains.md and do recon phase and look for as much vulnerability as possible.
+
+7) Create a script/tool that will:
+1. Copy content from a website (example based on HTTrack).
+2. Have an input file with keywords (user, usr, pwd, password, passwd, etc.)
+3. Search the locally copied website for keywords. 
