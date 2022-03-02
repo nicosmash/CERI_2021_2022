@@ -8,10 +8,8 @@ If you want you can use other virtualization tools like VMware Fusion, VMware Pl
 Many tests were carried out on VirtualBox.
 
 * **Download the latest version of Kali: https://www.kali.org/get-kali/#kali-virtual-machines**
-
         - [+] username: kali
         - [+] password: kali
-
 All VM labs and Kali machines must be in "Bridge" mode. 
 
 ## 📢 Virtual Lab : Labs
