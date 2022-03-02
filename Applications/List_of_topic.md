@@ -20,6 +20,6 @@
 6) Choose one or more sites on https://github.com/nicosmash/CERI_2021_2022/blob/main/Applications/List_domains.md and do recon phase and look for as much vulnerability as possible.
 
 7) Create a script/tool that will:
-1. Copy content from a website (example based on HTTrack).
-2. Have an input file with keywords (user, usr, pwd, password, passwd, etc.)
-3. Search the locally copied website for keywords. 
+* Copy content from a website (example based on HTTrack).
+* Have an input file with keywords (user, usr, pwd, password, passwd, etc.)
+* Search the locally copied website for keywords. 
