@@ -1,6 +1,6 @@
 # CERI_2021/2022
 
-* **Discord link if you have any questions** : https://discord.gg/aTrVyz76kU
+* **Discord link if you have any questions** : https://discord.gg/b8APPzkbM5
 
 ## 📢 Information : UCE "Sécurité Web + Applications"
 
