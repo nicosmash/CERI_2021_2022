@@ -3,17 +3,14 @@
 ## 📢 Virtual Lab : Prerequisites
 
 * **Download the latest version of VirtualBox: https://www.virtualbox.org/wiki/Downloads**
-
-If you want you can use other virtualization tools like VMware Fusion, VMware Player, VMware Workstation, etc. but without assurance that everything works. 
+    * If you want you can use other virtualization tools like VMware Fusion, VMware Player, VMware Workstation, etc. but without assurance that everything works. 
 Many tests were carried out on VirtualBox.
 
 * **Download the latest version of Kali: https://www.kali.org/get-kali/#kali-virtual-machines**
-
-username: kali
-
-password: kali
-
-All VM labs and Kali machines must be in "Bridge" mode. 
+    * username: kali
+    * password: kali
+    * I recommand you a "Nat Network" for all VM labs and Kali machines. 
+    * To change QWERTY in AZERTY you can use "setxkbmap fr" (volatile config) or "sudo dpkg-reconfigure keyboard-configuration" (non-volatile config).
 
 ## 📢 Virtual Lab : Labs
 * **Easy** :
