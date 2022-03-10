@@ -11,7 +11,7 @@
     * **Exam: Report for all VM and the deadline is 31 March**
 
 * **Real lab : 10h30 (9h course + 1h30 exam)** : https://github.com/nicosmash/CERI_2021_2022/tree/main/Applications
-    * **Exam: Report on Github and the deadline is is 31 March**
+    * **Exam: Report on Github and the deadline is is 22 April**
 
 * **Planning:**
     * **Friday February 4:**
