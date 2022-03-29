@@ -8,10 +8,10 @@
     * **Exam: QCM with about 60 questions**
 
 * **Virtual Lab : 16h30 (13h30 virtual lab + 3h exam)** : https://github.com/nicosmash/CERI_2021_2022/blob/main/Virtual_labs.md
-    * **Exam: Report for all VM and the deadline is 31 March**
+    * **Exam: Report for all VM and the deadline is 30 April**
 
 * **Real lab : 10h30 (9h course + 1h30 exam)** : https://github.com/nicosmash/CERI_2021_2022/tree/main/Applications
-    * **Exam: Report on Github and the deadline is is 22 April**
+    * **Exam: Report on Github and the deadline is 30 April**
 
 * **Planning:**
     * **Friday February 4:**
